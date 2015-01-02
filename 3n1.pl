@@ -1,5 +1,6 @@
 #!/usr/bin/perl
-# yet another 3n+1 example problem resolved using perl.
+# yet another 3n+1 (Collatz) example problem resolved using perl.
+# Collatz is an example of an algorithm that leads to equilibrium.
 # should work on any default perl instalation.  
 # gbarosio@gmail.com, 2015
 
